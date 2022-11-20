@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: rgb(240, 251, 244);
+}
+
+
+.swiper-button-next:after,
+.swiper-button-prev:after{
+    color: #1ba486
+}
+
+.swiper-pagination-progressbar .swiper-pagination-progressbar-fill{
+    background: #a8a8a8 !important;
+}
+
+/*A method to remove the scrollbar in chrome and firefox*/
+/*chrome*/
+htlm::-webkit-scrollbar{
+    display: none;
+}
+
+html{
+    scrollbar-width: none
+}
