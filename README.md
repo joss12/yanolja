@@ -1,4 +1,4 @@
-yanolja-git-main-egalaths-projects.vercel.app
+https://yanolja-git-main-egalaths-projects.vercel.app/
 
 
 Yanolja is actually the name of an application in South Korea for finding hotel rooms.
